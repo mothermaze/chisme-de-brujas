@@ -1,0 +1,6 @@
+# La copia editable queda local, fuera del repositorio público del sitio.
+codigo-fuente/
+.DS_Store
+Thumbs.db
+.env
+.env.*
